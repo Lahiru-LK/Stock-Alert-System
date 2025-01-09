@@ -2,6 +2,8 @@
 
 This project is a simple Stock Alert System that checks the current prices of stocks from an Excel file and sends notifications if any stock's current price falls below its target price. Notifications are sent via SMS using Twilio.
 
+https://github.com/user-attachments/assets/3411e7e8-04bd-4997-a17e-df423a4097b7
+
 ## ✨ Features
 - 📊 Automatically checks stock prices every hour (1 minutes).
 - 📲 Sends SMS alerts for stocks below their target price.
